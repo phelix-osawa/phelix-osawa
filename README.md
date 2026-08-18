@@ -2,7 +2,7 @@
 
 **Data Professional | Data Analysis -> Data Science -> Machine Learning**
 
-[Email](mailto:phelixosawa46@gmail.com) | [LinkedIn](https://www.linkedin.com/in/phelix-osawa-245168369/) | [Kaggle](https://www.kaggle.com/osawaphelix) | [Portfolio (In Development)](#)
+[Email](mailto:phelixosawa46@gmail.com) | [LinkedIn](https://www.linkedin.com/in/phelix-osawa/) | [Kaggle](https://www.kaggle.com/osawaphelix) | [Portfolio (In Development)](#)
 
 ---
 
